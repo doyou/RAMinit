@@ -9,4 +9,4 @@ Written by Mr. Leijun
 
 Function:
 
-Press HotKey (default is holding both the left and right Ctrl keys) to remove all TSR program after this program
+Press HotKey (default is holding both the left and right Ctrl keys) to remove all TSR programs after this program
