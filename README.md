@@ -1,6 +1,7 @@
-#RI.ASM  Revision 2.12         [ July 12, 1994 ]
+# RI.ASM  Revision 2.12
+[ July 12, 1994 ]
 
-Revision V2.12 @ DOS
+' Revision V2.12 @ DOS
 
 Copyright (c) 1989-1994 by Yellow Rose Software Co.
 
