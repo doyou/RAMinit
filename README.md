@@ -13,9 +13,9 @@ Press HotKey (default is holding both the left and right Ctrl keys) to remove al
 More usages can be displayed after running "**RI.com /?**"
 
 # Build tips
-Compilation environment recommeded：
+Build environment recommeded：
 
-DOS v6,**TASM** v5.
+MSDOS v6,**TASM** v4.
 
 MASM can't recognize some instructions such as "locals".
 
